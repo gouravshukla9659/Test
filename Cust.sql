@@ -165,3 +165,5 @@ WHERE TGT.CUSTOMERID IS NULL;
 
 SELECT * FROM training_TARGET.CUSTOMER;
 drop TABLE training_Target.CUSTOMER;
+
+Select * from training_work.wrk_customer;
